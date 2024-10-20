@@ -1,10 +1,14 @@
 .eikona{
 	width:100%;
 }
-{
+
 div{
 	margin-bottom: 50px;
 }
 .gipedo{
-	width:500%;
+	width:100%;
+	border: 5px solid black;	
+}
+body{
+	background-color: lightpink;
 }
